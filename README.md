@@ -1,4 +1,4 @@
-# MMA-MachineLearningAnalytics-GroupAssignment2
+# MMA-Machine Learning Analytics-Group Assignment 2
 
 Goal: to investigate the types of behaviors that have positive impacts on mitigating peoples’ risks of contracting the virus, and to identify characteristics of the population that are relatively vulnerable in face of the pandemic in order to implement extra protective measures.
 
